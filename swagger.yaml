@@ -1,4 +1,4 @@
-swagger: "2.0"
+swagger: "3.0"
 info:
   title: Sample API
   description: API description in Markdown.
@@ -10,7 +10,7 @@ servers:
   - url: https://sandbox-api.example.com:8443/v1
     description: Sandbox server (uses test data)
 
-    
+
 host: api.example.com
 basePath: /v1
 schemes:
